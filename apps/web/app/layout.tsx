@@ -5,9 +5,9 @@ import { ReactNode } from "react";
 import Providers from "./providers";
 
 const title =
-  "Novel – Notion-style WYSIWYG editor with AI-powered autocompletions";
+  "Tuno - Notes made simple";
 const description =
-  "Novel is a Notion-style WYSIWYG editor with AI-powered autocompletions. Built with Tiptap, OpenAI, and Vercel AI SDK.";
+  "Tuno is a very simple note taking app made for when you need to quickly take notes on a topic";
 
 export const metadata: Metadata = {
   title,
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     creator: "@steventey",
   },
-  metadataBase: new URL("https://novel.sh"),
+  metadataBase: new URL("https://sacapital.ch"),
   themeColor: "#ffffff",
 };
 
